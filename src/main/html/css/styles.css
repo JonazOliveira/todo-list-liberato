@@ -40,7 +40,7 @@ input[type="text"] {
 
 button {
     padding: 10px 20px;
-    background-color: #5000ac;
+    background-color: #28a745;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -49,7 +49,7 @@ button {
 }
 
 button:hover {
-    background-color: #ff00c8;
+    background-color: #218838;
 }
 
 ul {
